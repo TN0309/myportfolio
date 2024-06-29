@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1811af97.css",
+    "main.js": "/static/js/main.7c7e6a2d.js",
+    "static/media/pexels-photo-577585.jpeg": "/static/media/pexels-photo-577585.c6bc55a7d897096e9046.jpeg",
+    "static/media/Blog Banner (42).png": "/static/media/Blog Banner (42).293db51970f704558678.png",
+    "static/media/desarrollador-programacion-empleo-ti.jpg": "/static/media/desarrollador-programacion-empleo-ti.e935c337b04d492a2869.jpg",
+    "static/media/Top-8-Software-Development-Models.jpg": "/static/media/Top-8-Software-Development-Models.9528a6a91e90a627b2cb.jpg",
+    "static/media/experiencia-programacion-persona-que-trabaja-codigos-computadora-1024x683.jpg": "/static/media/experiencia-programacion-persona-que-trabaja-codigos-computadora-1024x683.19b1c330058fe4f6cbc1.jpg",
+    "static/media/360_F_316502266_72siD6YwZWCJd9rtwvoCkHmWf8bfhyLf-removebg-preview.png": "/static/media/360_F_316502266_72siD6YwZWCJd9rtwvoCkHmWf8bfhyLf-removebg-preview.737fa75989be176393e0.png",
+    "static/media/istockphoto-1356364287-612x612.jpg": "/static/media/istockphoto-1356364287-612x612.8c683ab1308333b04fac.jpg",
+    "index.html": "/index.html",
+    "main.1811af97.css.map": "/static/css/main.1811af97.css.map",
+    "main.7c7e6a2d.js.map": "/static/js/main.7c7e6a2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1811af97.css",
+    "static/js/main.7c7e6a2d.js"
+  ]
+}
